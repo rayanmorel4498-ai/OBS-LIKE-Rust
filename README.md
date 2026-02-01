@@ -39,3 +39,8 @@ Un fichier de configuration est nécessaire pour paramétrer le programme :
 ## C'est tout
 
 Le projet fait juste ça : **capture → compresse → envoie**.
+
+
+Je souhaite en revanche que les captures vidéos se fassent sur le gpu, mais je ne trouve pas de CUDA open-source en rust.
+Compression stable mais à revoir.
+Projet encore en phase de développement !
